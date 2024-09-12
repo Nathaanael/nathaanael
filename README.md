@@ -1,12 +1,26 @@
-# Halo semua! 
+# Hi! 
 
-Perkenalkan nama saya **Nathanael CP**.<br>
+Nama saya **Nathanael CP**.<br>
 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
+Seseorang yang memahami **Website Development** <br>
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
-
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
+Saya masih berkuliah di Soegijapranata Catholic University<br>
+ 
+Saya saat ini sedang mengikuti Program Bangkit Mobile Development.<br>
+### Not Bad in
+  <!-- Laravel -->
+  <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" /></a>
+  <!-- Python -->
+  <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" /></a>
+  <!-- PHP -->
+ <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /></a>
+  <!-- Kotlin -->
+  <a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" /></a>
+  <!-- C -->
+  <a href="#"><img align="left" alt="C" title="C" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /></a>
+  
+<br>
+<br>
 
 <p align="left">
 <a href="https://github.com/penuliscode">
@@ -14,3 +28,10 @@ Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
 </a>
 </p>
+
+### Contact With Me:
+ <a href="https://www.instagram.com/nathanaellprasetyo/">
+  <img align="left" alt="Instagram" title="Instagram" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
+</a>
+
+
