@@ -1,26 +1,35 @@
-# Hi! 
+# Hi! 👋
 
 Nama saya **Nathanael CP**.<br>
+Seorang yang sedang mendalami **Website Development** dan bersemangat dalam mempelajari hal-hal baru di dunia teknologi.
 
-Seseorang yang memahami **Website Development** <br>
+💻 Saat ini saya masih berkuliah di **Soegijapranata Catholic University** dan mengikuti Program **Bangkit Mobile Development**.
 
-Saya masih berkuliah di Soegijapranata Catholic University<br>
- 
-Saya saat ini sedang mengikuti Program Bangkit Mobile Development.<br>
-### Not Bad in
+---
+
+## ⚡ Skills & Technologies
+Saya tidak buruk dalam beberapa bahasa pemrograman dan framework berikut:
+
   <!-- Laravel -->
-  <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" /></a>
-  <!-- Python -->
-  <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" /></a>
-  <!-- PHP -->
- <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /></a>
-  <!-- Kotlin -->
-  <a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" /></a>
-  <!-- C -->
-  <a href="#"><img align="left" alt="C" title="C" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /></a>
+  <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="30px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" /></a>
   
-<br>
-<br>
+  <!-- Python -->
+  <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="30px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" /></a>
+  
+  <!-- PHP -->
+  <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /></a>
+  
+  <!-- Kotlin -->
+  <a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" /></a>
+  
+  <!-- C -->
+  <a href="#"><img align="left" alt="C" title="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /></a>
+
+<br><br>
+
+---
+
+## 📊 My GitHub Stats
 
 <p align="left">
 <a href="https://github.com/penuliscode">
@@ -29,9 +38,11 @@ Saya saat ini sedang mengikuti Program Bangkit Mobile Development.<br>
 </a>
 </p>
 
-### Contact With Me:
- <a href="https://www.instagram.com/nathanaellprasetyo/">
-  <img align="left" alt="Instagram" title="Instagram" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
-</a>
+---
 
+## 📫 Contact Me
+- **Instagram**: [@nathanaellprasetyo](https://www.instagram.com/nathanaellprasetyo/) <br>
 
+---
+
+Thank you for visiting my GitHub profile! 😄
